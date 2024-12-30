@@ -8,6 +8,7 @@ Duration: December 12, 2024- January 12, 2025
 OVERVIEW OF THE PROJECT
 Project: SIMPLE CALCULATOR
 The Simple Calculator is a Java-based application that performs basic arithmetic operations using a console interface or a Graphical User Interface (GUI) built with Swing.
+
 ![image](https://github.com/user-attachments/assets/e1730934-948f-4118-8ca4-8a4d6fd8e44c)
 
 
